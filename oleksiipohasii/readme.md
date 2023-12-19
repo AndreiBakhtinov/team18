@@ -1,3 +1,3 @@
 - Andrei Bakhtinov
 - Alexander Isai
-- Oleksii Pohasii
+- Oleksii Pohasii 
